@@ -10,8 +10,8 @@ spec:
   project: default
   source:
     path: bootstrap/bootstrap-resources
-    repoURL: https://github.com/digitalocean/mastodon-on-kubernetes
-    targetRevision: HEAD
+    repoURL: https://github.com/joshleecreates/mastodon-on-kubernetes
+    targetRevision: joshleecreates-testing
     helm:
       parameters:
         - name: domain
