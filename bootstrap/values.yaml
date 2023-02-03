@@ -1,6 +1,6 @@
 # Global Parameters (REQUIRED)
 # Add your domain
-domain: "mastodon.do.joshuamlee.com" 
+domain: "mastodon.craftersofcode.com" 
 # Application specific
 traefik:
   enable: true
